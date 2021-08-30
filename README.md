@@ -1,5 +1,5 @@
 # TerrorGrabbarnADcNukebot
 
-**Change the TOKEN TO YOUR TOKEN AND NOW CLICK ON THE LINK BELOW AND NOW CLICK RUN AND INVITE TO YOUR SERVER**
+**CLICK ON THE LINK 👇👇 AND CHANGE THE TOKEN AND NOW YOU CAN RUN THE BOT**
 
 https://replit.com/github/VolvoRaggarN/TerrorGrabbarnADcNukebot/
