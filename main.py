@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token = "ODMyMDAxMTQ5MDQwNDU5Nzc3.YHdbcw.MLNDnqd_c5Su_OmEdqrRduhDP48"
+token = "YOUR_TOKEN"
 
 
 SPAM_CHANNEL =  ["TERROR GRABBARNA HÄLSAR"]
